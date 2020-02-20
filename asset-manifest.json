@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/graphic-portfolio/static/css/main.b9c13ecf.chunk.css",
-    "main.js": "/graphic-portfolio/static/js/main.10cf653a.chunk.js",
-    "main.js.map": "/graphic-portfolio/static/js/main.10cf653a.chunk.js.map",
+    "main.js": "/graphic-portfolio/static/js/main.e92fa586.chunk.js",
+    "main.js.map": "/graphic-portfolio/static/js/main.e92fa586.chunk.js.map",
     "runtime-main.js": "/graphic-portfolio/static/js/runtime-main.aacbf3c1.js",
     "runtime-main.js.map": "/graphic-portfolio/static/js/runtime-main.aacbf3c1.js.map",
-    "static/js/2.eb88ae75.chunk.js": "/graphic-portfolio/static/js/2.eb88ae75.chunk.js",
-    "static/js/2.eb88ae75.chunk.js.map": "/graphic-portfolio/static/js/2.eb88ae75.chunk.js.map",
+    "static/js/2.040bb96f.chunk.js": "/graphic-portfolio/static/js/2.040bb96f.chunk.js",
+    "static/js/2.040bb96f.chunk.js.map": "/graphic-portfolio/static/js/2.040bb96f.chunk.js.map",
     "index.html": "/graphic-portfolio/index.html",
-    "precache-manifest.b26b63557c154cfdabbcfab3012b9f35.js": "/graphic-portfolio/precache-manifest.b26b63557c154cfdabbcfab3012b9f35.js",
+    "precache-manifest.68f0f8c25cfcfb0832be6edf3dd05b8f.js": "/graphic-portfolio/precache-manifest.68f0f8c25cfcfb0832be6edf3dd05b8f.js",
     "service-worker.js": "/graphic-portfolio/service-worker.js",
     "static/css/main.b9c13ecf.chunk.css.map": "/graphic-portfolio/static/css/main.b9c13ecf.chunk.css.map",
-    "static/js/2.eb88ae75.chunk.js.LICENSE": "/graphic-portfolio/static/js/2.eb88ae75.chunk.js.LICENSE",
+    "static/js/2.040bb96f.chunk.js.LICENSE": "/graphic-portfolio/static/js/2.040bb96f.chunk.js.LICENSE",
     "static/media/allegory.jpg": "/graphic-portfolio/static/media/allegory.2510a0ab.jpg",
     "static/media/baba.jpg": "/graphic-portfolio/static/media/baba.488a72d0.jpg",
     "static/media/baltra.png": "/graphic-portfolio/static/media/baltra.cce53013.png",
@@ -19,6 +19,7 @@
     "static/media/burghain3.JPG": "/graphic-portfolio/static/media/burghain3.7247b02b.JPG",
     "static/media/burghain4.jpg": "/graphic-portfolio/static/media/burghain4.5f2e7fa0.jpg",
     "static/media/burghain5.jpg": "/graphic-portfolio/static/media/burghain5.864b9353.jpg",
+    "static/media/coverphotogalcher2.jpg": "/graphic-portfolio/static/media/coverphotogalcher2.022e68db.jpg",
     "static/media/djboring.jpg": "/graphic-portfolio/static/media/djboring.73ba91da.jpg",
     "static/media/djseinfeld.jpg": "/graphic-portfolio/static/media/djseinfeld.2c824c91.jpg",
     "static/media/dmvdeep1.jpg": "/graphic-portfolio/static/media/dmvdeep1.ec7f176a.jpg",
@@ -27,8 +28,9 @@
     "static/media/dmvdeep4_black.jpg": "/graphic-portfolio/static/media/dmvdeep4_black.d375d3d1.jpg",
     "static/media/dmvdeep5.jpg": "/graphic-portfolio/static/media/dmvdeep5.a636c80f.jpg",
     "static/media/eclairfifi.jpg": "/graphic-portfolio/static/media/eclairfifi.71671271.jpg",
+    "static/media/galcher.jpg": "/graphic-portfolio/static/media/galcher.b76d31d9.jpg",
     "static/media/header.png": "/graphic-portfolio/static/media/header.862bb8d7.png",
-    "static/media/jacquesgreene.png": "/graphic-portfolio/static/media/jacquesgreene.8baca329.png",
+    "static/media/jacquesgreene.jpg": "/graphic-portfolio/static/media/jacquesgreene.1b4ca59a.jpg",
     "static/media/kerri.jpg": "/graphic-portfolio/static/media/kerri.e2f70cbb.jpg",
     "static/media/magician.jpg": "/graphic-portfolio/static/media/magician.671ce114.jpg",
     "static/media/minitour.jpg": "/graphic-portfolio/static/media/minitour.de4f3e51.jpg",
@@ -49,12 +51,13 @@
     "static/media/sonar.jpg": "/graphic-portfolio/static/media/sonar.bc9592c0.jpg",
     "static/media/thedream.jpg": "/graphic-portfolio/static/media/thedream.fc7f47c2.jpg",
     "static/media/thisistheend.jpg": "/graphic-portfolio/static/media/thisistheend.a7ddcd05.jpg",
-    "static/media/uhell.jpg": "/graphic-portfolio/static/media/uhell.76fe0f11.jpg"
+    "static/media/uhell.jpg": "/graphic-portfolio/static/media/uhell.76fe0f11.jpg",
+    "static/media/waxplay.jpg": "/graphic-portfolio/static/media/waxplay.c461132a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aacbf3c1.js",
-    "static/js/2.eb88ae75.chunk.js",
+    "static/js/2.040bb96f.chunk.js",
     "static/css/main.b9c13ecf.chunk.css",
-    "static/js/main.10cf653a.chunk.js"
+    "static/js/main.e92fa586.chunk.js"
   ]
 }
